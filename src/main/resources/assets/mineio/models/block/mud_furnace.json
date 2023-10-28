@@ -1,0 +1,9 @@
+{
+  "parent": "minecraft:block/orientable",
+  "textures": {
+    "top": "mineio:block/mud_furnace",
+    "front": "mineio:block/mud_furnace_front",
+    "bottom": "mineio:block/mud_furnace",
+    "side": "mineio:block/mud_furnace"
+  }
+}
